@@ -1,0 +1,4 @@
+Flask~=2.0.2
+WTForms~=3.0.1
+requests~=2.27.1
+selectorlib~=0.16.0
